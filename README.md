@@ -1,4 +1,4 @@
-# Intercom
+# EV-Manager
 
 ## Installation
 
@@ -41,4 +41,4 @@ To run the application locally:
 
 ## Deployed Link
 
-[EV-Manager (Vercel)]()
+[EV-Manager (Vercel)](https://ev-manager-chi.vercel.app/)
